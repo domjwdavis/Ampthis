@@ -1,0 +1,23 @@
+DEBUG - 2013-04-13 00:57:19 --> Config Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> Hooks Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> Utf8 Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> UTF-8 Support Enabled
+DEBUG - 2013-04-13 00:57:19 --> URI Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> Router Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> No URI present. Default controller set.
+DEBUG - 2013-04-13 00:57:19 --> Output Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> Security Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> Input Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-04-13 00:57:19 --> Language Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> Loader Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> Helper loaded: url_helper
+DEBUG - 2013-04-13 00:57:19 --> Database Driver Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> CI_Session Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> Encrypt Class Initialized
+DEBUG - 2013-04-13 00:57:19 --> A session cookie was not found.
+DEBUG - 2013-04-13 00:57:20 --> Session garbage collection performed.
+DEBUG - 2013-04-13 00:57:20 --> CI_Session routines successfully run
+DEBUG - 2013-04-13 00:57:20 --> Controller Class Initialized
+DEBUG - 2013-04-13 00:57:20 --> Final output sent to browser
+DEBUG - 2013-04-13 00:57:20 --> Total execution time: 0.1247
